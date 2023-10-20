@@ -1,7 +1,7 @@
 # PYTHON-AL-ML-
 **MAJOR PROJECT**
 
-**tHEME: Social Media and Social Networking Analytics**
+**THEME: Social Media and Social Networking Analytics**
 
 **PROBLEM STATEMENT**
 
