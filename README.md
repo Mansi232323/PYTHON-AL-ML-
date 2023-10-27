@@ -18,52 +18,59 @@ The Social Media Data Analysis project is a robust exploration of social media d
 
 **Key Components** 
 
-1. Data Preprocessing:
-Data Cleaning: Handling missing values, outliers, and inconsistencies to ensure data quality.
-Feature Engineering: Creating relevant features from raw data to enhance the model's predictive power.
-Text Data Processing: Tokenization, stemming, and sentiment analysis for textual data.
+1. **Data Preprocessing:**
+   
+1.**Data Cleaning:** Handling missing values, outliers, and inconsistencies to ensure data quality.
 
-2. Exploratory Data Analysis (EDA):
+2.**Feature Engineering:** Creating relevant features from raw data to enhance the model's predictive power.
+
+3.**Text Data Processing:** Tokenization, stemming, and sentiment analysis for textual data.
+
+
+2. **Exploratory Data Analysis (EDA):**
+   
 Data Visualization: Utilizing various graphs and plots to uncover patterns and trends within social media data.
 Statistical Analysis: Conducting statistical tests to validate hypotheses and gain insights.
 
-3. Machine Learning Models:
-4. 
-Classification Algorithms:
+3. **Machine Learning Models:**
 
-Decision Tree Classifier: Building decision tree models to classify social media posts or users based on specific features.
+**Classification Algorithms:**
 
-K-Nearest Neighbors (KNN): Implementing KNN algorithms for classifying similar social media posts or users.
+1.**Decision Tree Classifier:** Building decision tree models to classify social media posts or users based on specific features.
 
-Logistic Regression: Employing logistic regression for binary classification tasks.
+2.**K-Nearest Neighbors (KNN):** Implementing KNN algorithms for classifying similar social media posts or users.
 
-Random Forest Classifier: Utilizing ensemble learning for improved classification accuracy.
+3.**Logistic Regression:** Employing logistic regression for binary classification tasks.
 
-Regression:
+4.**Random Forest Classifier:** Utilizing ensemble learning for improved classification accuracy.
 
-Linear Regression: Applying linear regression to predict numerical values such as post engagement or user activity metrics.
+**Regression:**
 
-R² Score: Utilizing the R² score to evaluate the regression models' goodness of fit.
-Clustering:
+1.**Linear Regression:** Applying linear regression to predict numerical values such as post engagement or user activity metrics.
 
-K-Means Clustering: Grouping similar social media users or posts together based on their attributes.
-Naive Bayes Classifier:
+2.**R² Score:** Utilizing the R² score to evaluate the regression models' goodness of fit.
 
-Sentiment Analysis: Implementing Naive Bayes for sentiment analysis to categorize posts or comments as positive, negative, or neutral.
 
-Project Impact
+**Clustering:**
+**K-Means Clustering:** Grouping similar social media users or posts together based on their attributes.
+
+**Naive Bayes Classifier:**
+**Sentiment Analysis:** Implementing Naive Bayes for sentiment analysis to categorize posts or comments as positive, negative, or neutral.
+
+**Project Impact**
 
 
 The Social Media Data Analysis project offers valuable insights into user behavior, content engagement, and sentiment within social media platforms. By leveraging advanced machine learning algorithms, the project aids in making data-driven decisions for marketing strategies, content optimization, and user experience enhancement.
 
-Technologies Used
+**Technologies Used**
+
 Programming Languages: Python, machine learning algorithm
 
-Libraries: Pandas, NumPy, dataset from kaggle, Matplotlib, Seaborn
+**Libraries**: Pandas, NumPy, dataset from kaggle, Matplotlib, Seaborn
 
-Data set link: https://www.kaggle.com/datasets/sunita15/social-media-dataset 
+**Data set link**: https://www.kaggle.com/datasets/sunita15/social-media-dataset 
 
-Tools: colab Notebook
+**Tools**: colab Notebook
 
 
 
@@ -72,12 +79,14 @@ Tools: colab Notebook
 **The final result gives us that the accuracy of our model is 1.0 .**
 
 
-Conclusion
+**Conclusion**
 This project showcases the power of data analysis and machine learning in deciphering social media trends. From data preprocessing and exploratory analysis to the implementation of diverse machine learning algorithms, the project provides a comprehensive understanding of social media data, enabling informed decision-making for businesses and marketers in the digital landscape.
 
 
 
-CONTRIBUTORS
+**CONTRIBUTORS**
+Ambika Rai- ambika009bteceai22@igdtuw.ac.in 
+Soniya Verma- soniya138bteceai22@igdtuw.ac.in
 
 
 
